@@ -51,5 +51,7 @@ admin.site.register(car,caradmin)
 # OUTPUT
 Include the screenshot of your admin page.
 
+![alt text](./image.png)
+![alt text](./image-1.png)
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
